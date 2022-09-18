@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "unciv-mod-toolchain": "github:tenumn/unciv-mod-toolchain"
+  }
+}

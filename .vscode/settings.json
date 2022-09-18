@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        // vscode
+        ".vscode":true,
+        // node
+        "**/node_modules": true,
+        "**/package-lock.json": true,
+        "**/package.json": true,
+        // unciv
+        "**/game.atlas": true,
+        "**/game.png": true,
+    }
+}

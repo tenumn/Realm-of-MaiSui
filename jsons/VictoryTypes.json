@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Scientific"
+    },
+    {
+        "name": "Cultural"
+    },
+    {
+        "name": "Domination"
+    },
+    {
+        "name": "Diplomatic"
+    },
+    {
+        "name": "Time"
+    },
+    {
+        "name": "Economy",
+        "victoryScreenHeader": "Build Golden Statue\nto win!",
+        "milestones": [
+            "Build [Golden Statue]"
+        ]
+    }
+]

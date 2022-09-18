@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Golden Statue",
+        "cost": 100000000,
+        "isNationalWonder": true,
+        "requiredBuilding": "Monument"
+    }
+]

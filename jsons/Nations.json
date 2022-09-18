@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Realm of MaiSui",
+        "leaderName": "MaiSui",
+        "preferredVictoryType": "Economy",
+        "uniqueName": "Trade Reform",
+        "uniques": [
+            "[+100]% [Gold] from Trade Routes"
+        ],
+        "adjective": [
+            "MaiCity"
+        ],
+        "outerColor": [
+            255,
+            255,
+            255
+        ],
+        "innerColor": [
+            64,
+            191,
+            191
+        ]
+    }
+]
