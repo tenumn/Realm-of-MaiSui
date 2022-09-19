@@ -4,6 +4,8 @@
         "victoryScreenHeader": "Build Golden Statue\nto win!",
         "milestones": [
             "Build [Golden Statue]"
-        ]
+        ],
+        "victoryString": "The golden statue you built towered in the center of the city to declare your wealth and status to the world!",
+        "defeatString": "You defeat!"
     }
 ]
